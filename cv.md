@@ -1,6 +1,6 @@
 1. Artem, Avdeenko
-2. Contacts:[VK](<https://vk.com/misteriojkee>), Mail:avdeenkoartem1212@gmail.com
+2. Contacts:[VK](<https://vk.com/misteriojkee>), Mail:avdeenkoartem1212@gmail.com, [Instagram] (https://www.instagram.com/avdeenko_artem/) 
 3. Motivated to learn programming languages
-4. Skills : HTML, CSS, Javascript (basic), BEM methodology. 
+4. Skills : HTML, CSS, Javascript (basic), BEM methodology.
 5. Education: [htmlacademy](<https://htmlacademy.ru/profile/id1220799>), The Rolling Scopes School
 6. English: pre-intermediate
